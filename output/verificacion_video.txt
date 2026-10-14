@@ -1,0 +1,14 @@
+existe: True
+tamano_bytes: 1429958
+codec: h264
+pix_fmt: yuv420p
+resolucion: 1920x1080
+resolucion_ok: True
+fps: 30/1
+frames_video: 1051
+frames_esperados: 1050
+duracion_s: 35.03
+duracion_esperada_s: 35.0
+anios_distintos_en_video: 16
+decodifica_sin_errores: True
+duracion_ok: True
